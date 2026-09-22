@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/0005-longest-palindromic-substring) |
+| [0008-string-to-integer-atoi](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/0008-string-to-integer-atoi) |
 | [3498-reverse-degree-of-a-string](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/3498-reverse-degree-of-a-string) |
 ## Dynamic Programming
 |  |
