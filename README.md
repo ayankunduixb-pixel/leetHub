@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/0002-add-two-numbers) |
+| [0012-integer-to-roman](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/0012-integer-to-roman) |
 | [0836-rectangle-overlap](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Recursion
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/0012-integer-to-roman) |
 ## Two Pointers
 |  |
 | ------- |
@@ -35,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/0008-string-to-integer-atoi) |
+| [0012-integer-to-roman](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/0012-integer-to-roman) |
 | [3498-reverse-degree-of-a-string](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/3498-reverse-degree-of-a-string) |
 ## Dynamic Programming
 |  |
