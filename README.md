@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/0015-3sum) |
 | [0414-third-maximum-number](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/0414-third-maximum-number) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/0005-longest-palindromic-substring) |
+| [0015-3sum](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/0015-3sum) |
 ## String
 |  |
 | ------- |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/0015-3sum) |
 | [0414-third-maximum-number](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/0414-third-maximum-number) |
 ## Geometry
 |  |
