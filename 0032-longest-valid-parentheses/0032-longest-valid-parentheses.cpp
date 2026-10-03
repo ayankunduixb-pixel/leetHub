@@ -1,6 +1,6 @@
 class Solution {
 public:
-    int longestValidParentheses(string s) {
+    int Approach1(string s){
         int n = s.length();
         int open = 0;
         int close = 0;
@@ -37,5 +37,31 @@ public:
             }
         }
         return result;
+    }
+    int Approach2(string s){
+        stack<int> st;
+        st.push(-1);
+        int maxLen = 0;
+
+        for(int i = 0; i < s.length();i++){
+            if(s[i] == '('){
+                st.push(i);
+            }
+            else{
+                st.pop();
+                if(st.empty()){
+                    st.push(i);
+                }
+                else{
+                    maxLen = max(maxLen,i-st.top());
+                }
+            }
+        }
+        return maxLen;
+    }
+
+    int longestValidParentheses(string s) {
+        // return Approach1(s);
+        return Approach2(s);
     }
 };
