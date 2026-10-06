@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## String
 |  |
 | ------- |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [3498-reverse-degree-of-a-string](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/3498-reverse-degree-of-a-string) |
 ## Dynamic Programming
 |  |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -109,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Backtracking
 |  |
 | ------- |
@@ -119,4 +123,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 <!---LeetCode Topics End-->
