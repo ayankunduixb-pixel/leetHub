@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/0018-4sum) |
 | [0414-third-maximum-number](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/0414-third-maximum-number) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [4061-minimum-queen-moves-to-reach-target](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/4061-minimum-queen-moves-to-reach-target) |
 ## Hash Table
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/0018-4sum) |
 | [0414-third-maximum-number](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/0414-third-maximum-number) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Geometry
 |  |
 | ------- |
@@ -133,8 +135,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/0301-remove-invalid-parentheses) |
+## Binary Search
+|  |
+| ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/2333-minimum-sum-of-squared-difference) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/2333-minimum-sum-of-squared-difference) |
 <!---LeetCode Topics End-->
