@@ -28,10 +28,22 @@ private:
         long long largerHalf = accumulate(nums.begin()+n/2,nums.end(),0LL);
         return largerHalf - smallerHalf;
     }
+    long long Approach3(vector<int>& nums) {
+        // nth-element-sorting
+        int n = nums.size();
+        for(int i = 0;i<n;i++){
+            nums[i] = nums[i] * nums[i];
+        }
+        // sort the nth means the mid element only
+        nth_element(nums.begin(),nums.begin()+n/2,nums.end());
+        long long smallerHalf = accumulate(nums.begin(),nums.begin()+n/2 , 0LL);
+        long long largerHalf = accumulate(nums.begin()+n/2,nums.end(),0LL);
+        return largerHalf - smallerHalf;
+    }
 public:
     long long maxAlternatingSum(vector<int>& nums) {
         // return Approach1(nums); // O(nlogn)
-        return Approach2(nums); // O(nlogn)
-
+        // return Approach2(nums); // O(nlogn)
+        return Approach3(nums); // O(n) *****
     }
 };
