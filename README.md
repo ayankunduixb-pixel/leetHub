@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [4061-minimum-queen-moves-to-reach-target](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/4061-minimum-queen-moves-to-reach-target) |
 ## Recursion
 |  |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Breadth-First Search
 |  |
