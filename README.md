@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2000-reverse-prefix-of-word](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/2000-reverse-prefix-of-word) |
+| [2224-minimum-number-of-operations-to-convert-time](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/2224-minimum-number-of-operations-to-convert-time) |
 | [2409-count-days-spent-together](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/2409-count-days-spent-together) |
 | [3498-reverse-degree-of-a-string](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/3498-reverse-degree-of-a-string) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/3863-minimum-operations-to-sort-a-string) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2224-minimum-number-of-operations-to-convert-time](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/2224-minimum-number-of-operations-to-convert-time) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/3723-maximize-sum-of-squares-of-digits) |
