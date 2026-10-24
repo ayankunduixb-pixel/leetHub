@@ -10,7 +10,7 @@
 class Solution {
 public:
     int guessNumber(int n) {
-        long l = 0, r = n-1, m;
+        long l = 1, r = n, m;
         int flag;
         while (l <= r) {
             m = (l + r) / 2;
