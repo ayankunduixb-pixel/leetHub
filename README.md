@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/0414-third-maximum-number) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
+| [1254-number-of-closed-islands](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/0301-remove-invalid-parentheses) |
+| [1254-number-of-closed-islands](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/1254-number-of-closed-islands) |
 ## Binary Search
 |  |
 | ------- |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/1254-number-of-closed-islands) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/1582-special-positions-in-a-binary-matrix) |
 ## Binary Indexed Tree
 |  |
@@ -235,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Search Tree
 |  |
@@ -260,4 +264,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/0374-guess-number-higher-or-lower) |
+## Depth-First Search
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/1254-number-of-closed-islands) |
 <!---LeetCode Topics End-->
