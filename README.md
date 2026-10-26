@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/0049-group-anagrams) |
 | [0268-missing-number](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/0414-third-maximum-number) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0049-group-anagrams](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/0049-group-anagrams) |
 | [0268-missing-number](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/0268-missing-number) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/0032-longest-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/0049-group-anagrams) |
 | [0301-remove-invalid-parentheses](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/0344-reverse-string) |
 | [0678-valid-parenthesis-string](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/0678-valid-parenthesis-string) |
@@ -123,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/0049-group-anagrams) |
 | [0268-missing-number](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/0414-third-maximum-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/2089-find-target-indices-after-sorting-array) |
