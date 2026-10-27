@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3886-sum-of-sortable-integers](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/3886-sum-of-sortable-integers) |
+| [3988-create-grid-with-exactly-k-paths-i](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/3988-create-grid-with-exactly-k-paths-i) |
 | [4061-minimum-queen-moves-to-reach-target](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/4061-minimum-queen-moves-to-reach-target) |
 ## Recursion
 |  |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3886-sum-of-sortable-integers](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/3886-sum-of-sortable-integers) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/3942-minimum-operations-to-sort-a-permutation) |
+| [3988-create-grid-with-exactly-k-paths-i](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/3988-create-grid-with-exactly-k-paths-i) |
 | [4061-minimum-queen-moves-to-reach-target](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/4061-minimum-queen-moves-to-reach-target) |
 ## Hash Table
 |  |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/1254-number-of-closed-islands) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3988-create-grid-with-exactly-k-paths-i](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/3988-create-grid-with-exactly-k-paths-i) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -262,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3988-create-grid-with-exactly-k-paths-i](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/3988-create-grid-with-exactly-k-paths-i) |
 ## Binary Tree
 |  |
 | ------- |
