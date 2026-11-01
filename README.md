@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/0013-roman-to-integer) |
 | [0268-missing-number](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/0268-missing-number) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0836-rectangle-overlap](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/0836-rectangle-overlap) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/0049-group-anagrams) |
 | [0268-missing-number](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/0414-third-maximum-number) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1254-number-of-closed-islands](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
