@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/0049-group-anagrams) |
+| [0054-spiral-matrix](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/0054-spiral-matrix) |
 | [0268-missing-number](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/0414-third-maximum-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/0054-spiral-matrix) |
 | [3498-reverse-degree-of-a-string](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/3498-reverse-degree-of-a-string) |
 ## Trie
 |  |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/0054-spiral-matrix) |
 | [1254-number-of-closed-islands](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/1254-number-of-closed-islands) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
