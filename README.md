@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/0049-group-anagrams) |
 | [0268-missing-number](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/0268-missing-number) |
+| [0383-ransom-note](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/0383-ransom-note) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/0049-group-anagrams) |
 | [0301-remove-invalid-parentheses](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/0383-ransom-note) |
 | [0678-valid-parenthesis-string](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -305,4 +307,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/3841-palindromic-path-queries-in-a-tree) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
