@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/0048-rotate-image) |
 | [0268-missing-number](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/0268-missing-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0836-rectangle-overlap](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/0836-rectangle-overlap) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/0018-4sum) |
+| [0048-rotate-image](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/0054-spiral-matrix) |
 | [0268-missing-number](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/0268-missing-number) |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/0054-spiral-matrix) |
 | [1254-number-of-closed-islands](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/1254-number-of-closed-islands) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/1582-special-positions-in-a-binary-matrix) |
