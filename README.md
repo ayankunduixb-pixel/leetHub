@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/0268-missing-number) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/0029-divide-two-integers) |
 | [0190-reverse-bits](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/0190-reverse-bits) |
 | [0268-missing-number](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/0268-missing-number) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
