@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/0268-missing-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0836-rectangle-overlap](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/0836-rectangle-overlap) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/0032-longest-valid-parentheses) |
+| [0070-climbing-stairs](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/0070-climbing-stairs) |
 | [0392-is-subsequence](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/0392-is-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/0678-valid-parenthesis-string) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/0070-climbing-stairs) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Combinatorics
 |  |
