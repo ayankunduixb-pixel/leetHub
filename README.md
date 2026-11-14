@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/0066-plus-one) |
+| [0209-minimum-size-subarray-sum](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/0414-third-maximum-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/0268-missing-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/0374-guess-number-higher-or-lower) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -334,9 +336,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/3364-minimum-positive-sum-subarray) |
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/3364-minimum-positive-sum-subarray) |
 <!---LeetCode Topics End-->
