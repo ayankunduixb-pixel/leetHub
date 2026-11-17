@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0048-rotate-image](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/0066-plus-one) |
 | [0209-minimum-size-subarray-sum](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/0209-minimum-size-subarray-sum) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/0032-longest-valid-parentheses) |
+| [0053-maximum-subarray](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/0070-climbing-stairs) |
 | [0392-is-subsequence](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/0392-is-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/0678-valid-parenthesis-string) |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/0053-maximum-subarray) |
 | [0190-reverse-bits](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/0190-reverse-bits) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/3841-palindromic-path-queries-in-a-tree) |
