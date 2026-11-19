@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/0054-spiral-matrix) |
+| [0056-merge-intervals](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/0066-plus-one) |
 | [0209-minimum-size-subarray-sum](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/0268-missing-number) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/0056-merge-intervals) |
 | [0268-missing-number](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/0414-third-maximum-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -348,4 +350,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/3364-minimum-positive-sum-subarray) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
