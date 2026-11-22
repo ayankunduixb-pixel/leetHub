@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2000-reverse-prefix-of-word](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/2000-reverse-prefix-of-word) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/2224-minimum-number-of-operations-to-convert-time) |
 | [2409-count-days-spent-together](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/2409-count-days-spent-together) |
 | [3498-reverse-degree-of-a-string](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/3498-reverse-degree-of-a-string) |
