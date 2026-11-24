@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1401-circle-and-rectangle-overlapping](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2409-count-days-spent-together](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/2409-count-days-spent-together) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3364-minimum-positive-sum-subarray](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3886-sum-of-sortable-integers](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/3886-sum-of-sortable-integers) |
 ## Bit Manipulation
 |  |
@@ -351,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -360,4 +364,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/0056-merge-intervals) |
+## Number Theory
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/3411-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
