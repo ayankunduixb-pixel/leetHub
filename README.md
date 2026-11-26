@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/0018-4sum) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/0035-search-insert-position) |
 | [0209-minimum-size-subarray-sum](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/0209-minimum-size-subarray-sum) |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/0053-maximum-subarray) |
 | [0190-reverse-bits](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/0190-reverse-bits) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ayankunduixb-pixel/leethub-Questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
